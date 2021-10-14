@@ -7,7 +7,6 @@ CREATE TABLE [dbo].[Table_1](
 	[bqwe] [nchar](10) COLLATE Latin1_General_CI_AS NOT NULL,
 	[cqwe] [nchar](10) COLLATE Latin1_General_CI_AS NOT NULL,
 	[dqwe] [nchar](10) COLLATE Latin1_General_CI_AS NOT NULL,
-	[ads] [nchar](10) COLLATE Latin1_General_CI_AS NULL,
  CONSTRAINT [PK_Table_1] PRIMARY KEY CLUSTERED 
 (
 	[dqwe] ASC,
